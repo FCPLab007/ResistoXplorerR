@@ -1,2 +1,2 @@
 # ResistoXplorerR
-R code repo for the ResistoXplorer web server
+R code repository for the ResistoXplorer web server
