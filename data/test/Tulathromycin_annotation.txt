@@ -1,0 +1,135 @@
+#ANNOTATION	Class	Mechanism	Group
+222|JQ394987.1|JQ394987|Multi-drug_resistance|Multi-drug_efflux_pumps|MDFA	Multi-drug resistance	Multi-drug efflux pumps	MDFA
+424|D85892.1|D85892|MLS|Macrolide_phosphotransferases|MPHB	MLS	Macrolide phosphotransferases	MPHB
+43|L20800.1|CLOTETP|Tetracyclines|Tetracycline_resistance_major_facilitator_superfamily_MFS_efflux_pumps|TETB	Tetracyclines	Tetracycline resistance major facilitator superfamily MFS efflux pumps	TETB
+518|AJ007350.1|AJ007350|betalactams|Class_A_betalactamases|ACI	betalactams	Class A betalactamases	ACI
+605|V01547.1|V01547|Aminoglycosides|Aminoglycoside_O-phosphotransferases|APH3-PRIME	Aminoglycosides	Aminoglycoside O-phosphotransferases	APH3-PRIME
+740|JX560992.1|JX560992|Aminoglycosides|Aminoglycoside_O-nucleotidyltransferases|ANT9	Aminoglycosides	Aminoglycoside O-nucleotidyltransferases	ANT9
+926|AF337947.1|AF337947|Aminoglycosides|Aminoglycoside_O-phosphotransferases|APH6-PRIME	Aminoglycosides	Aminoglycoside O-phosphotransferases	APH6-PRIME
+AGly|AY712687.1|gene1|Aminoglycosides|Aminoglycoside_O-nucleotidyltransferases|ANT6	Aminoglycosides	Aminoglycoside O-nucleotidyltransferases	ANT6
+AGly|Ant6-Ia|AF330699|22-930|909|Aminoglycosides|Aminoglycoside_O-nucleotidyltransferases|ANT6	Aminoglycosides	Aminoglycoside O-nucleotidyltransferases	ANT6
+AGly|Ant6-Ib|FN594949|27482-28339|858|Aminoglycosides|Aminoglycoside_O-nucleotidyltransferases|ANT6	Aminoglycosides	Aminoglycoside O-nucleotidyltransferases	ANT6
+AGly|Aph2-Ib|AF207840|272-1171|900|Aminoglycosides|Aminoglycoside_O-phosphotransferases|APH2-DPRIME	Aminoglycosides	Aminoglycoside O-phosphotransferases	APH2-DPRIME
+AGly|Sat4A|X92945|38870-39412|543|Aminoglycosides|Aminoglycoside_N-acetyltransferases|SAT	Aminoglycosides	Aminoglycoside N-acetyltransferases	SAT
+AGly|U01945.1|gene1|Aminoglycosides|Aminoglycoside_N-acetyltransferases|SAT	Aminoglycosides	Aminoglycoside N-acetyltransferases	SAT
+AGly|aph2-dprime-Ib_1_AF337947|Aminoglycosides|Aminoglycoside_O-phosphotransferases|APH2-DPRIME	Aminoglycosides	Aminoglycoside O-phosphotransferases	APH2-DPRIME
+Bac|AP009048.1|gene3103|Bacitracin|Undecaprenyl_pyrophosphate_phosphatase|BACA	Bacitracin	Undecaprenyl pyrophosphate phosphatase	BACA
+Bac|NC_002695.1.916234|Bacitracin|Undecaprenyl_pyrophosphate_phosphatase|BACA	Bacitracin	Undecaprenyl pyrophosphate phosphatase	BACA
+Bla|AF118110.1|gene1|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|AMPH_Ecoli|AP012030|395554-396711|1158|betalactams|Penicillin_binding_protein|AMPH	betalactams	Penicillin binding protein	AMPH
+Bla|AmpC1_Ecoli|FN649414|2765051-2766355|1302|betalactams|Penicillin_binding_protein|PBP4B	betalactams	Penicillin binding protein	PBP4B
+Bla|AmpC2|Ecoli|CP002970|332756-333889|1134|betalactams|Class_C_betalactamases|BLAEC	betalactams	Class C betalactamases	BLAEC
+Bla|PBP|Ecoli|CP002291|664439-666340|1902|betalactams|Penicillin_binding_protein|PBP2	betalactams	Penicillin binding protein	PBP2
+Bla|cfxA2_1_AF504914|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|cfxA2|AF504910|1-966|966|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|cfxA3_1_AF472622|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|cfxA4|AY769933|1-966|966|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|cfxA5|AY769934|28-993|966|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|cfxA6|GQ342996|798-1793|966|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+Bla|cfxA|U38243|150-1115|966|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+CARD|phgb|AF024666|2207-2969|ARO:3000596|ErmX|MLS|23S_rRNA_methyltransferases|ERMX	MLS	23S rRNA methyltransferases	ERMX
+CARD|phgb|AF118110|71-1037|ARO:3003002|CfxA2|betalactams|Class_A_betalactamases|CFX	betalactams	Class A betalactamases	CFX
+CARD|phgb|AP009048|2165012-2166416|ARO:3000829|baeS|Multi-drug_resistance|MDR_regulator|BAES	Multi-drug resistance	MDR regulator	BAES
+CARD|phgb|AP009048|2810082-2811255|ARO:3000027|emrA|Multi-drug_resistance|Multi-drug_efflux_pumps|EMRA	Multi-drug resistance	Multi-drug efflux pumps	EMRA
+CARD|phgb|AP009048|3980025-3981183|ARO:3000795|mdtE|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTE	Multi-drug resistance	Multi-drug efflux pumps	MDTE
+CARD|phgb|AP009048|4153663-4154296|ARO:3000518|CRP|Multi-drug_resistance|MDR_regulator|CRP	Multi-drug resistance	MDR regulator	CRP
+CARD|phgb|AP009048|4303042-4304509|ARO:3003550|mdtP|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTP	Multi-drug resistance	Multi-drug efflux pumps	MDTP
+CARD|phgb|AP009048|4304505-4306557|ARO:3003549|mdtO|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTO	Multi-drug resistance	Multi-drug efflux pumps	MDTO
+CARD|phgb|AP009048|4306556-4307588|ARO:3003548|mdtN|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTN	Multi-drug resistance	Multi-drug efflux pumps	MDTN
+CARD|phgb|AP009048|4337959-4338628|ARO:3003582|PmrA|Cationic_antimicrobial_peptides|Polymyxin_B_resistance_regulator|pmrA	Cationic antimicrobial peptides	Polymyxin B resistance regulator	pmrA
+CARD|phgb|AP009048|4338624-4340268|ARO:3003576|PmrC|Cationic_antimicrobial_peptides|Lipid_A_modification|PMRC	Cationic antimicrobial peptides	Lipid A modification	PMRC
+CARD|phgb|AY928180|0-495|ARO:3002837|lnuC|MLS|Lincosamide_nucleotidyltransferases|LNUC	MLS	Lincosamide nucleotidyltransferases	LNUC
+CARD|phgb|CP000034|2662758-2663289|ARO:3000516|emrR|Multi-drug_resistance|MDR_regulator|EMRR	Multi-drug resistance	MDR regulator	EMRR
+CARD|phgb|D78168|1591-3130|ARO:3000254|emrY|Multi-drug_resistance|Multi-drug_efflux_pumps|EMRY	Multi-drug resistance	Multi-drug efflux pumps	EMRY
+CARD|phgb|D78168|536-1592|ARO:3000206|emrK|Multi-drug_resistance|Multi-drug_efflux_pumps|EMRK	Multi-drug resistance	Multi-drug efflux pumps	EMRK
+CARD|phgb|FJ768952|0-1488|ARO:3000237|tolC|Multi-drug_resistance|Multi-drug_efflux_pumps|TOLC	Multi-drug resistance	Multi-drug efflux pumps	TOLC
+CARD|phgb|M35190|0-624|ARO:3002670|cat|Phenicol|Chloramphenicol_acetyltransferases|CAT	Phenicol	Chloramphenicol acetyltransferases	CAT
+CARD|phgb|NC_002695|1737553-1737967|ARO:3000676|H-NS|Multi-drug_resistance|MDR_regulator|HNS	Multi-drug resistance	MDR regulator	HNS
+CARD|phgb|NC_002695|3211891-3212506|ARO:3000832|evgA|Multi-drug_resistance|MDR_regulator|EVGA	Multi-drug resistance	MDR regulator	EVGA
+CARD|phgb|NC_002695|4904931-4905630|ARO:3000831|cpxR|Multi-drug_resistance|MDR_regulator|CPXA	Multi-drug resistance	MDR regulator	CPXA
+CARD|phgb|NC_007779|1115840-1117067|ARO:3001329|mdtG|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTG	Multi-drug resistance	Multi-drug efflux pumps	MDTG
+CARD|phgb|NC_007779|1621287-1621671|ARO:3000263|marA|Multi-drug_resistance|MDR_regulator|MARA	Multi-drug resistance	MDR regulator	MARA
+CARD|phgb|NC_007779|1745170-1746544|ARO:3001327|mdtK|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTK	Multi-drug resistance	Multi-drug efflux pumps	MDTK
+CARD|phgb|NC_007779|2166412-2167135|ARO:3000828|baeR|Multi-drug_resistance|MDR_regulator|BAER	Multi-drug resistance	MDR regulator	BAER
+CARD|phgb|NC_007779|2586250-2589364|ARO:3000491|acrD|Aminoglycosides|Aminoglycoside_efflux_pumps|ACRD	Aminoglycosides	Aminoglycoside efflux pumps	ACRD
+CARD|phgb|NC_007779|3974604-3975429|ARO:3000508|gadX|Multi-drug_resistance|MDR_regulator|GADX	Multi-drug resistance	MDR regulator	GADX
+CARD|phgb|NC_007779|4336858-4337950|ARO:3003583|PmrB|Cationic_antimicrobial_peptides|Polymyxin_B_resistance_regulator|PMRB	Cationic antimicrobial peptides	Polymyxin B resistance regulator	PMRB
+CARD|phgb|NC_007779|567537-567870|ARO:3000264|emrE|Multi-drug_resistance|Multi-drug_efflux_pumps|EMRE	Multi-drug resistance	Multi-drug efflux pumps	EMRE
+CARD|phgb|NC_009725|543798-544848|ARO:3002814|clbA|Phenicol|Phenicol_23S_rRNA_methyltransferases|CLBA	Phenicol	Phenicol 23S rRNA methyltransferases	CLBA
+CARD|phgb|NC_012469|1800927-1802391|ARO:3000616|mel|MLS|Macrolide_resistance_efflux_pumps|MEL	MLS	Macrolide resistance efflux pumps	MEL
+CARD|phgb|NC_023287|65291-66509|ARO:3000615|mefA|MLS|Macrolide_resistance_efflux_pumps|MEFA	MLS	Macrolide resistance efflux pumps	MEFA
+CARD|phgb|U00096|1124117-1125326|ARO:3001216|mdtH|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTH	Multi-drug resistance	Multi-drug efflux pumps	MDTH
+CARD|phgb|U00096|1188315-1189776|ARO:3000835|phoQ|Multi-drug_resistance|MDR_regulator|PHOQ	Multi-drug resistance	MDR regulator	PHOQ
+CARD|phgb|U00096|2098446-2099613|ARO:3003577|PmrE|Cationic_antimicrobial_peptides|Lipid_A_modification|PMRC	Cationic antimicrobial peptides	Lipid A modification	PMRC
+CARD|phgb|U00096|2154015-2155263|ARO:3000792|mdtA|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTA	Multi-drug resistance	Multi-drug efflux pumps	MDTA
+CARD|phgb|U00096|2155262-2158385|ARO:3000793|mdtB|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTB	Multi-drug resistance	Multi-drug efflux pumps	MDTB
+CARD|phgb|U00096|2158385-2161463|ARO:3000794|mdtC|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTC	Multi-drug resistance	Multi-drug efflux pumps	MDTC
+CARD|phgb|U00096|2367070-2368039|ARO:3003578|PmrF|Cationic_antimicrobial_peptides|Lipid_A_modification|PMRF	Cationic antimicrobial peptides	Lipid A modification	PMRF
+CARD|phgb|U00096|2368038-2370021|ARO:3002985|arnA|Cationic_antimicrobial_peptides|Lipid_A_modification|ARNA	Cationic antimicrobial peptides	Lipid A modification	ARNA
+CARD|phgb|U00096|2484373-2487967|ARO:3000833|evgS|Multi-drug_resistance|MDR_regulator|EVGS	Multi-drug resistance	MDR regulator	EVGS
+CARD|phgb|U00096|2812615-2814154|ARO:3000074|emrB|Multi-drug_resistance|Multi-drug_efflux_pumps|EMRB	Multi-drug resistance	Multi-drug efflux pumps	EMRB
+CARD|phgb|U00096|3203309-3204131|ARO:3002986|bacA|Bacitracin|Undecaprenyl_pyrophosphate_phosphatase|BACA	Bacitracin	Undecaprenyl pyrophosphate phosphatase	BACA
+CARD|phgb|U00096|3412802-3413465|ARO:3000656|acrS|Aminoglycosides|Aminoglycoside_efflux_regulator|ACRS	Aminoglycosides	Aminoglycoside efflux regulator	ACRS
+CARD|phgb|U00096|3413863-3415021|ARO:3000499|acrE|Aminoglycosides|Aminoglycoside_efflux_pumps|ACRE	Aminoglycosides	Aminoglycoside efflux pumps	ACRE
+CARD|phgb|U00096|3415032-3418137|ARO:3000502|acrF|Aminoglycosides|Aminoglycoside_efflux_pumps|ACRF	Aminoglycosides	Aminoglycoside efflux pumps	ACRF
+CARD|phgb|U00096|3660413-3663527|ARO:3000796|mdtF|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTC	Multi-drug resistance	Multi-drug efflux pumps	MDTC
+CARD|phgb|U00096|4567286-4568519|ARO:3001214|mdtM|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTC	Multi-drug resistance	Multi-drug efflux pumps	MDTC
+CARD|pvgb|AP009048|3760295-3762710|ARO:3003303|Escherichia|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation	Fluoroquinolones	Fluoroquinolone-resistant DNA topoisomerases	GYRB
+CARD|pvgb|NC_007779|986315-987404|ARO:3003390|Escherichia|Multi-drug_resistance|MDR_mutant_porin_proteins|OMPF|RequiresSNPConfirmation	Multi-drug resistance	MDR mutant porin proteins	OMPF
+CARD|pvgb|U00096|4277468-4277933|ARO:3003381|Escherichia|Multi-drug_resistance|MDR_regulator|SOXS|RequiresSNPConfirmation	Multi-drug resistance	MDR regulator	SOXS
+MLS|ErmF|M14730|241-1041|801|MLS|23S_rRNA_methyltransferases|ERMF	MLS	23S rRNA methyltransferases	ERMF
+MLS|ErmG|M15332|672-1406|735|MLS|23S_rRNA_methyltransferases|ERMG	MLS	23S rRNA methyltransferases	ERMG
+MLS|ErmQ|L22689|262-1035|774|MLS|23S_rRNA_methyltransferases|ERMQ	MLS	23S rRNA methyltransferases	ERMQ
+MLS|ErmT|M64090|168-902|735|MLS|23S_rRNA_methyltransferases|ERMR	MLS	23S rRNA methyltransferases	ERMR
+MLS|ErmX|M36726|296-1150|855|MLS|23S_rRNA_methyltransferases|ERMX	MLS	23S rRNA methyltransferases	ERMX
+MLS|L22689.1|gene1|MLS|23S_rRNA_methyltransferases|ERMQ	MLS	23S rRNA methyltransferases	ERMQ
+MLS|M62487.1|gene1|MLS|23S_rRNA_methyltransferases|ERMF	MLS	23S rRNA methyltransferases	ERMF
+MLS|MefA|U70055|314-1531|1218|MLS|Macrolide_resistance_efflux_pumps|MEFA	MLS	Macrolide resistance efflux pumps	MEFA
+MLS|MsrD|AF274302|2462-3925|1464|MLS|Macrolide_resistance_efflux_pumps|MSRD	MLS	Macrolide resistance efflux pumps	MSRD
+MLS|NC_023287.1.18156494|MLS|Macrolide_resistance_efflux_pumps|MEFA	MLS	Macrolide resistance efflux pumps	MEFA
+MLS|ermB_12_U18931|MLS|23S_rRNA_methyltransferases|ERMB	MLS	23S rRNA methyltransferases	ERMB
+MLS|ermB_1_JN899585|MLS|23S_rRNA_methyltransferases|ERMB	MLS	23S rRNA methyltransferases	ERMB
+MLS|ermB_9_AF299292|MLS|23S_rRNA_methyltransferases|ERMB	MLS	23S rRNA methyltransferases	ERMB
+MLS|ermF_3_M17808|MLS|23S_rRNA_methyltransferases|ERMF	MLS	23S rRNA methyltransferases	ERMF
+MLS|ermF_4_M62487|MLS|23S_rRNA_methyltransferases|ERMF	MLS	23S rRNA methyltransferases	ERMF
+MLS|ermG_2_L42817|MLS|23S_rRNA_methyltransferases|ERMG	MLS	23S rRNA methyltransferases	ERMG
+MLS|ermT_2_AY894138|MLS|23S_rRNA_methyltransferases|ERMT	MLS	23S rRNA methyltransferases	ERMT
+MLS|ermT_3_AF310974|MLS|23S_rRNA_methyltransferases|ERMT	MLS	23S rRNA methyltransferases	ERMT
+MLS|ermX_2_X51472|MLS|23S_rRNA_methyltransferases|ERMX	MLS	23S rRNA methyltransferases	ERMX
+MLS|ermX_3_U21300|MLS|23S_rRNA_methyltransferases|ERMX	MLS	23S rRNA methyltransferases	ERMX
+MLS|msrD_3_AF227520|MLS|Macrolide_resistance_efflux_pumps|MSRD	MLS	Macrolide resistance efflux pumps	MSRD
+Mdr|AP009048.1|gene2135|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTD	Multi-drug resistance	Multi-drug efflux pumps	MDTD
+Mdr|AP009048.1|gene3414|Multi-drug_resistance|MDR_regulator|CPXAR	Multi-drug resistance	MDR regulator	CPXAR
+Mdr|AP009048.1|gene3415|Multi-drug_resistance|MDR_regulator|CPXAR	Multi-drug resistance	MDR regulator	CPXAR
+Mdr|AP009048.1|gene3616|Multi-drug_resistance|Multi-drug_efflux_pumps|MDTL	Multi-drug resistance	Multi-drug efflux pumps	MDTL
+Mdr|CP000034.1|gene2198|Multi-drug_resistance|MDR_regulator|ASMA	Multi-drug resistance	MDR regulator	ASMA
+Mdr|CP000034.1|gene3834|Multi-drug_resistance|MDR_regulator|CPXAR	Multi-drug resistance	MDR regulator	CPXAR
+Mdr|NC_002695.1.910541|Multi-drug_resistance|MDR_regulator|CPXAR	Multi-drug resistance	MDR regulator	CPXAR
+Tet|AJ295238|gene|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET32	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET32
+Tet|EU434751.1|gene2|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETW	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETW
+Tet|JQ740052.1|gene2|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET40
+Tet|Tet-32|DQ647324|181-2100|1920|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET32	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET32
+Tet|Tet-40|AM419751|14211-15431|1221|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET40
+Tet|Tet-44|FN594949|25245-27167|1923|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET44	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET44
+Tet|TetA-P|L20800|Tetracyclines|Tetracycline_resistance_major_facilitator_superfamily_MFS_efflux_pumps|TETA	Tetracyclines	Tetracycline resistance major facilitator superfamily MFS efflux pumps	TETA
+Tet|TetO|M18896|207-2126|1920|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETO
+Tet|TetQ|Z21523|362-2287|1926|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETQ
+Tet|TetW|AJ222769|3687-5606|1920|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETW	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETW
+Tet|TetX|M37699|586-1752|1167|Tetracyclines|Tetracycline_inactivation_enzymes|TETX	Tetracyclines	Tetracycline inactivation enzymes	TETX
+Tet|tet32_1_EU722333|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET32	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET32
+Tet|tet40_1_FJ158002|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET40
+Tet|tet40_2_FJ158002|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET40	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET40
+Tet|tet44_1_NZ_ABDU01000081|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TET44	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TET44
+Tet|tetA_P_1_AB054980|Tetracyclines|Tetracycline_resistance_major_facilitator_superfamily_MFS_efflux_pumps|TETA	Tetracyclines	Tetracycline resistance major facilitator superfamily MFS efflux pumps	TETA
+Tet|tetA_P_4_AB001076|Tetracyclines|Tetracycline_resistance_major_facilitator_superfamily_MFS_efflux_pumps|TETA	Tetracyclines	Tetracycline resistance major facilitator superfamily MFS efflux pumps	TETA
+Tet|tetL_1_HM235948|Tetracyclines|Tetracycline_resistance_major_facilitator_superfamily_MFS_efflux_pumps|TETL	Tetracyclines	Tetracycline resistance major facilitator superfamily MFS efflux pumps	TETL
+Tet|tetO_2_M20925|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETO
+Tet|tetO_3_Y07780|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETO	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETO
+Tet|tetQ_1_L33696|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETQ
+Tet|tetQ_3_U73497|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETQ
+Tet|tetW_1_DQ060146|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETW	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETW
+Tet|tetW_2_AY049983|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETW	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETW
+Tet|tetW_5_AJ427421|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETW	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETW
+Tet|tetW_6_FN396364|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETW	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETW
+Tet|tetX_1_GU014535|Tetracyclines|Tetracycline_inactivation_enzymes|TETX	Tetracyclines	Tetracycline inactivation enzymes	TETX
+Tmt|tetQ_2_X58717|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ	Tetracyclines	Tetracycline resistance ribosomal protection proteins	TETQ

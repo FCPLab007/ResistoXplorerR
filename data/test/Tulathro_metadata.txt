@@ -1,0 +1,61 @@
+#NAME	 Time	Treatment	Time_Treatment
+11_GGCTAC_L001	Day1	Treated	Day1_Treated
+37_CTTGTA_L001	Day1	Treated	Day1_Treated
+51_AGTCAA_L001	Day1	Treated	Day1_Treated
+62_AGTTCC_L002	Day1	Treated	Day1_Treated
+83_ATGTCA_L002	Day1	Treated	Day1_Treated
+84_CCGTCC_L003	Day1	Treated	Day1_Treated
+92_GTCCGC_L003	Day1	Treated	Day1_Treated
+93_GTGAAA_L003	Day1	Treated	Day1_Treated
+102_GTGGCC_L004	Day1	Treated	Day1_Treated
+103_ATTCCT_L004	Day1	Treated	Day1_Treated
+130_ATCACG_L005	Day1	Treated	Day1_Treated
+155_CGATGT_L005	Day1	Treated	Day1_Treated
+156_ACAGTG_L005	Day1	Treated	Day1_Treated
+158_GCCAAT_L006	Day1	Treated	Day1_Treated
+164_TTAGGC_L006	Day1	Treated	Day1_Treated
+208_CAGATC_L007	Day1	Untreated	Day1_Untreated
+216_ACTTGA_L007	Day1	Untreated	Day1_Untreated
+220_TGACCA_L007	Day1	Untreated	Day1_Untreated
+227_ATGTCA_L008	Day1	Untreated	Day1_Untreated
+228_CCGTCC_L008	Day1	Untreated	Day1_Untreated
+261_GTCCGC_L001	Day1	Untreated	Day1_Untreated
+281_GTGAAA_L001	Day1	Untreated	Day1_Untreated
+285_GTGGCC_L001	Day1	Untreated	Day1_Untreated
+286_GTTTCG_L002	Day1	Untreated	Day1_Untreated
+287_CGTACG_L002	Day1	Untreated	Day1_Untreated
+289_GAGTGG_L003	Day1	Untreated	Day1_Untreated
+298_ACTGAT_L003	Day1	Untreated	Day1_Untreated
+349_TGACCA_L003	Day1	Untreated	Day1_Untreated
+372_CAGATC_L004	Day1	Untreated	Day1_Untreated
+376_ACTTGA_L004	Day1	Untreated	Day1_Untreated
+11p2_GATCAG_L001	Day 11	Treated	Day 11_Treated
+37p2_TAGCTT_L001	Day 11	Treated	Day 11_Treated
+51p2_GGCTAC_L002	Day 11	Treated	Day 11_Treated
+62p2_CTTGTA_L002	Day 11	Treated	Day 11_Treated
+83p2_AGTCAA_L002	Day 11	Treated	Day 11_Treated
+84p2_AGTTCC_L003	Day 11	Treated	Day 11_Treated
+92p2_ATCACG_L003	Day 11	Treated	Day 11_Treated
+93p2_TTAGGC_L004	Day 11	Treated	Day 11_Treated
+102p2_TGACCA_L004	Day 11	Treated	Day 11_Treated
+103p2_ACTGAT_L004	Day 11	Treated	Day 11_Treated
+130p2_ATTCCT_L005	Day 11	Treated	Day 11_Treated
+155p2_GTGGCC_L005	Day 11	Treated	Day 11_Treated
+156p2_GTTTCG_L006	Day 11	Treated	Day 11_Treated
+158p2_CGTACG_L006	Day 11	Treated	Day 11_Treated
+164p2_GAGTGG_L006	Day 11	Treated	Day 11_Treated
+208p2_TAGCTT_L007	Day 11	Untreated	Day 11_Untreated
+216p2_GGCTAC_L007	Day 11	Untreated	Day 11_Untreated
+220p2_CTTGTA_L008	Day 11	Untreated	Day 11_Untreated
+227p2_AGTCAA_L008	Day 11	Untreated	Day 11_Untreated
+228p2_AGTTCC_L008	Day 11	Untreated	Day 11_Untreated
+261p2_ATGTCA_L001	Day 11	Untreated	Day 11_Untreated
+281p2_CCGTCC_L001	Day 11	Untreated	Day 11_Untreated
+285p2_GTGAAA_L002	Day 11	Untreated	Day 11_Untreated
+286p2_GTCCGC_L002	Day 11	Untreated	Day 11_Untreated
+287p2_ATCACG_L002	Day 11	Untreated	Day 11_Untreated
+289p2_CGATGT_L003	Day 11	Untreated	Day 11_Untreated
+298p2_TTAGGC_L003	Day 11	Untreated	Day 11_Untreated
+349p2_CGATGT_L004	Day 11	Untreated	Day 11_Untreated
+372p2_ACAGTG_L004	Day 11	Untreated	Day 11_Untreated
+376p2_GCCAAT_L004	Day 11	Untreated	Day 11_Untreated
