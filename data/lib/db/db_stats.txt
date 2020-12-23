@@ -1,0 +1,15 @@
+Database	Version	Date	No. of features	Feature type	No of functional levels	Functional levels	Note
+ResFinder	3.2	2020-02-11	2705	Gene name_accession no.	3	Class, Mechansim & Gene	-
+CARD	2.0	2019-11-27	2617	Gene name	2	Mechanism, Family & Gene	only ARGs present in “nucleotide protein homolog” model
+ARDB	1.1	2009-07-03	377	Gene name	2	Class & Mechanism	-
+ARG-ANNOT	4	2018-05	2025	Gene name	1	Class	-
+MegaRes	2.0	2019-10-14	7868	MegaRes ID	4	Type, Class, Mechanism & Group	drugs, biocides and metals resistance genes
+MegaRes	2.0	2019-10-14	7126	MegaRes ID	3	Class, Mechanism & Group	only drugs related resistance genes
+MegaRes	1.0.1	2016-12-01	3824	MegaRes ID	3	Class, Mechanism & Group	-
+AMRFinder	1.0	2019-11-04	4156	Gene name	2	Class & Mechanism	-
+SARG	2.0	2019-12-07	12085	Gene name	2	Type & SubType	-
+DeepARG-DB	1.0	2020-02-07	4511	Gene name	2	Subtypes & Types	-
+ARGminer	1.1.1	2019-04-24	14872	Accession	3	Class, Mechanism & ARG_NAME	only contain known ARGs
+Resfams	1.2.2	2018-02-21	123	Gene name	2	Class & Mechanism	only ResFam as HMM source
+BacMet 	2.0	2018-03-11	607	Gene name	2	Mechanism & Class	only experimentally confirmed genes
+Antimicrobial peptide (AMP) dataset	-	-	131	Gene name	1	Mechanism	-
