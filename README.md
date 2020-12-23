@@ -7,4 +7,5 @@ R code repository for the ResistoXplorer web server. ResistoXplorer is a web-bas
 4. Comprehensive support for ARG functional annotations along with their microbe and phenotype associations based on data collected from more than 10 reference and curated databases;
 5. A powerful and fully featured network visualization for intuitive exploration of ARG-microbal host associations, incorporated with functional annotations enrichment analysis support.
  
-ResistoXplorer is freely accessible from: http://resistoxplorer.no/. Users can locally reproduce the results by using the R commandline history generated while analyzing the data on the server.  
+ResistoXplorer is freely accessible from: http://resistoxplorer.no/. Users can locally reproduce the results by using the R commandline history generated while analyzing the data on the server. 
+Note: The ResistoXplorer R package is under development.
