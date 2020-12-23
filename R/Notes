@@ -1,1 +1,6 @@
-
+All the functions and code used in ResistoXplorer is present in 4 .R files:
+  1. ARGList.R: contains all R functions used in ARG List module;
+  2. ARGTable.R: contains all R functions in ARG Table module;
+  3. Integration.R: all code used to perform integrative analysis (Integration module)
+  3. DataProcessing.R: contain all R functions used in ARG table and Integration module for data preprocessing (Data Upload, Data Summary, Data Filtration and Normalization);
+  
